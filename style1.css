@@ -1,0 +1,65 @@
+.p1{
+	font-weight: 400;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.bkg-1-1{
+	background: #131E19;
+}
+.heading-1-1{
+	color: white;
+	padding-top: 30px;
+	font-weight: 500;
+}
+.p-absolute{
+	position: absolute;
+	right: 0px;
+	top: 30px;
+}
+.p-absolute-1{
+	position: absolute;
+	top: 45px;
+	right: 0px;
+}
+.pt-1-1{
+	margin-top: 45px;
+}
+.hr-1-1{
+	margin: 2rem;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.hr-1-2{
+	width: 150px;
+	border-top: 2px solid #F0C808;
+	opacity: unset;
+}
+.img-wh{
+	height: 10px;
+	width: 11px;
+	margin-top: 10px;
+}
+.img-wh-1{
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+}
+.p1-1{
+	margin: 0px;
+	line-height: 27px;
+	padding-left: 10px;
+}
+.d-flex{
+	padding-left: 28px;
+}
+.card-body{
+	padding: 50px;
+}
+.btn-1-1{
+	width: 158px;
+	height: 49px;
+	background: #F0C808;
+}
